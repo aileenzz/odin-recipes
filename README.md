@@ -1,0 +1,1 @@
+For this project "Odin Recipes" I will create a website that contains 3 pages, each page featuring a recipe. For now the pages will appear as basic HTML without CSS/Javascript styling.
